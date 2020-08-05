@@ -1,0 +1,1 @@
+./telegram-typings/javascript/index.d.ts

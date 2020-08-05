@@ -1,0 +1,3 @@
+[submodule "src/telegram-typings"]
+	path = src/telegram-typings
+	url = git@github.com:sergeysova/telegram-typings.git
